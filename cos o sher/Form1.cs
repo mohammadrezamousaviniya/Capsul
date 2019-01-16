@@ -36,6 +36,7 @@ namespace cos_o_sher
             timer1.Start();
 
             //kirrrrrrrrrrrr
+            // KIIIIIIIIIIIIIIIIIIIR2
         }
         private void mmm()
         {
