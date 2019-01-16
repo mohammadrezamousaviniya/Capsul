@@ -30,10 +30,7 @@ namespace cos_o_sher
             progressBar1.Maximum = 100000;
             counete = 1000;
             Thread AA = new Thread(() => mmm());
-            Thread BB = new Thread(() => mmm2());
-            AA.Start();
-            BB.Start();
-            timer1.Start();
+
 
             //kirrrrrrrrrrrr
             // KIIIIIIIIIIIIIIIIIIIR2
